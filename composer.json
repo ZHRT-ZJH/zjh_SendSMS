@@ -1,0 +1,20 @@
+{
+    "name": "zhaojianhao/MwempSendSMS",
+    "description": "梦网云通讯 发送文本短信",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaojianhao",
+            "email": "498763852@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "MwempSendSMS\\": "src/"
+        }
+    }
+}
