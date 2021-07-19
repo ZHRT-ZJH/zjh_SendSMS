@@ -1,5 +1,5 @@
 {
-    "name": "zhaojianhao/MwempSendSMS",
+    "name": "zjhtest/mwemp-send-sms",
     "description": "梦网云通讯 发送文本短信",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MwempSendSMS\\": "src/"
+            "MwempSendSMS\\": "sendsms/"
         }
     }
 }
