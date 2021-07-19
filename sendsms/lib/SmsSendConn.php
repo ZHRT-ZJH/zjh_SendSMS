@@ -2,10 +2,9 @@
 namespace MwempSendSMS\lib;
 /**
  * Created by PhpStorm.
- * Date: 2017-9-5
- * Time: 8:45
+ * Date: 2021-7-16
+ * Time: 10:45
  * @功能概要：发送管理类
- * @公司名称： ShenZhen Montnets Technology CO.,LTD.
  */
 class SmsSendConn
 {

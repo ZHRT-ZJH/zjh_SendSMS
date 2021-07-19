@@ -1,6 +1,6 @@
 {
     "name": "zjhtest/mwemp-send-sms",
-    "description": "梦网云通讯 发送文本短信",
+    "description": "梦网云通讯 发送文本短信、统一认证服务",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,10 @@
     },
     "autoload": {
         "psr-4": {
-            "MwempSendSMS\\": "sendsms/"
+            "MwempSendSMS\\": "sendsms/",
+            "MwempSecretfree\\": "mwempAuthentication/"
         }
     }
 }
+
+
