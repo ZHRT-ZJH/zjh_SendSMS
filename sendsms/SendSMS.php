@@ -8,7 +8,7 @@
  */
 ////////////////////////////////////////////////////////////////////////////////////
 //公共参数(帐号,密码,url地址)
-require_once('lib/SmsSendConn.php');
+require_once __DIR__.'/../../../autoload.php';
 use MwempSendSMS\lib\SmsSendConn as SmsSendConn;
 
 //南方短信节点url地址
